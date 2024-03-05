@@ -7,6 +7,6 @@ This project aims to develop an algorithm to detect feature lines in 3D cloud of
 
 
 - Programming Language Used: Python
--  Libraries Used: wxPython , Visualization ToolKit (VTK)
+- Libraries Used: wxPython , Visualization ToolKit (VTK)
 
 © Yarmouk Private University 2020
