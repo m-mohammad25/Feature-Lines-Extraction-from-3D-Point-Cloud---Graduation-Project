@@ -1,0 +1,12 @@
+Project Name:
+Feature Lines Extraction from 3D Point Cloud
+
+Abstract:
+This project aims to develop an algorithm to detect feature lines in 3D cloud of points for the models obtained by remote sensing techniques for buildings, and export these feature lines to the architectural design software.
+ The proposed algorithm has been applied by developing a software tool compatible with the software used in the General Organization of Remote Sensing (GORS), in order to be the first stage in this domain.
+
+
+- Programming Language Used: Python
+-  Libraries Used: wxPython , Visualization ToolKit (VTK)
+
+© Yarmouk Private University 2020
